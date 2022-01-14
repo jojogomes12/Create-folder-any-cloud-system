@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^2.12",
+        "spatie/dropbox-api": "^1.19",
+        "kunalvarma05/dropbox-php-sdk": "^0.2.2"
+    }
+}
