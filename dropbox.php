@@ -35,7 +35,7 @@ require_once('vendor/autoload.php');
 
 use Spatie\Dropbox\Client;
 
-$key = 'sl.BAGchzMUW4j0LrDDS1tVhjDJONBHXfHSiBPgiBmljScy9bZluIP5F7qgocSv6IW8VmAMmAH8xiBVx8ddUhgI-reUBpnqPXQMGXWOqq8F-PJNkYU_hBONJ6TSj7oLiCmHvz13CLiG-BLy'; //insira seu generated access token do Dropbox
+$key = ''; //insira seu generated access token do Dropbox
 
 $client = new Client($key); //instanciando um client do Dropbox
 
